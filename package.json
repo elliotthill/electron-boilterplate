@@ -1,0 +1,21 @@
+{
+  "name": "Electron boilerplate",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "./electron.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^26.0.0",
+    "electron-context-menu": "^3.6.1",
+    "electron-debug": "^3.2.0",
+    "electron-store": "^8.1.0",
+    "node-gzip": "^1.1.2"
+  },
+  "devDependencies": {
+  }
+}
